@@ -14,11 +14,8 @@ A modern, polished, and interactive Todo application built with **React**. Inclu
 
 ## Screenshots
 
-![Todo App Screenshot](public\images\image.png)
+![Todo App Screenshot](images\image.png)
 
-## Installation
+## Live Demo
 
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-url>
-   ```
+Check out the live version of the app here: [Rebik Todo App](https://rebik-todo-app.vercel.app/)
